@@ -55,7 +55,7 @@ async def check_owner(chat_id):
     return perms.is_creator
 
 # ---------- BOT ----------
-bot = Bot("BOT_TOKEN_YAHAN_DALO")
+bot = bot = Bot("8592232894:AAHuo1Y8dbsS4QNUqHvMqmbWzwrM3mskNqI")
 dp = Dispatcher()
 
 @dp.message()
