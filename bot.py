@@ -6,7 +6,7 @@ import asyncio from aiogram import Bot, Dispatcher, types from aiogram.filters i
 
 from userbot import join_and_check, wait_until_owner
 
-BOT_TOKEN = "PUT_YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN = "8592232894:AAHuo1Y8dbsS4QNUqHvMqmbWzwrM3mskNqI"
 
 bot = Bot(BOT_TOKEN) dp = Dispatcher()
 
